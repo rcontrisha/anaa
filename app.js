@@ -75,9 +75,9 @@ let trackList = [
         path: "./music/tejano_blue.mp3",
     },
     {
-        name: "Kiss Me",
-        artist: "Sixpence None The Richer",
-        path: "./music/kiss_me.mp3",
+        name: "I Think They Call This Love",
+        artist: "Elliot James Reay",
+        path: "./music/i_think_they_call_this_love.mp3",
     },
     {
         name: "Birds Of A Feather",
